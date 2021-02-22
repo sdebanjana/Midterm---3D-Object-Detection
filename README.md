@@ -1,9 +1,13 @@
 # Midterm : 3D Object Detection
 ##
 📦project
+
 ┣ 📂dataset --> contains the Waymo Open Dataset sequences
+
 ┃
+
 ┣ 📂misc
+
 ┃ ┣ 📜helpers.py --> misc. helper functions, e.g. for loading / saving binary files
 ┃ ┗ 📜objdet_tools.py --> object detection functions without student tasks
 ┃
